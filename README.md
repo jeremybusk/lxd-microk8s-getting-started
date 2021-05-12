@@ -104,3 +104,7 @@ spec:
 ```
 
 microk8s.kubectl apply -f my-nginx.yml
+
+# Complex Operator
+
+https://assets.zabbix.com/files/events/zabbix_summit_2020/Tyler_French_Zabbix_meets_Kubernetes.pdf
