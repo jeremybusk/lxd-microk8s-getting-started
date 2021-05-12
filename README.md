@@ -1,12 +1,15 @@
 # lxd-microk8s-getting-started
 Kubernetes using microk8s in lxd
 
-https://kubernetes.io/docs/concepts/overview/components/
+# Anatomy of Kubernetes
 
-https://kubernetes.io/docs/tutorials/kubernetes-basics/explore/explore-intro/
+- https://kubernetes.io/docs/concepts/overview/components/
+- https://kubernetes.io/docs/tutorials/kubernetes-basics/explore/explore-intro/
 
 
-- Create base Ubuntu 20.04 Host
+# Using Ubuntu and LXD to Create a Quick and Dirty HA k8s Environment
+
+- Create base Ubuntu 20.04 Host - https://ubuntu.com/download/server
 
 Init LXD - https://linuxcontainers.org/lxd/getting-started-cli/
 ```
