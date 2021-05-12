@@ -102,3 +102,5 @@ spec:
       # By default and for convenience, the Kubernetes control plane will allocate a port from a range (default: 30000-32767)
       nodePort: 30001
 ```
+
+microk8s.kubectl apply -f my-nginx.yml
