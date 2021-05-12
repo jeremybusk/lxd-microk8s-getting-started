@@ -1,6 +1,8 @@
 # lxd-microk8s-getting-started
 Kubernetes using microk8s in lxd
 
+https://kubernetes.io/docs/concepts/overview/components/
+
 https://kubernetes.io/docs/tutorials/kubernetes-basics/explore/explore-intro/
 
 
