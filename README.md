@@ -106,5 +106,16 @@ spec:
 microk8s.kubectl apply -f my-nginx.yml
 
 # Complex Operator
+https://www.zabbix.com/documentation/current/manual/installation/containers
+
+https://github.com/zabbix/zabbix-docker/blob/5.2/kubernetes.yaml
+
+https://github.com/zabbix/zabbix-docker
+
+https://kubernetes.io/docs/concepts/workloads/controllers/replicationcontroller/ https://kubernetes.io/docs/concepts/overview/working-with-objects/kubernetes-objects/
+
+https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.21/#deploymentspec-v1-apps
+
+https://gitlab.com/frenchtoasters/zabbix-operator
 
 https://assets.zabbix.com/files/events/zabbix_summit_2020/Tyler_French_Zabbix_meets_Kubernetes.pdf
